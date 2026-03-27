@@ -1,4 +1,4 @@
-Computer Vision Lab: Image Formation & Edge Detection
+Computer Vision: Image Formation & Edge Detection
 This repository contains the implementation and analysis for the Laboratory Session on Basic Image Processing Operations. The primary focus is exploring how pre-processing techniques and Matlab’s built-in functions facilitate robust high-level computer vision algorithms.
 
 🎯 Objectives
