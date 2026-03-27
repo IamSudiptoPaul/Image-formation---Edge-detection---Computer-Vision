@@ -43,6 +43,7 @@ Clone this repository:
 
 Bash
 git clone https://github.com/your-username/cv-edge-detection.git
+
 Open Matlab.
 
 Navigate to the project folder.
